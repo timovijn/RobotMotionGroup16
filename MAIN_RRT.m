@@ -107,6 +107,7 @@ motionPlanner = pathPlannerRRT(costmap, 'MinIterations', n, ...
 % av_costRRT = sum(CostRRT)/10;
 % av_costRRTstar = sum(CostRRTstar)/10;
 
-figure(1)% plot(costmap)
-hold on
-plot(refPath)
+% figure(3)
+% plot(costmap)
+% hold on
+% plot(refPath)
